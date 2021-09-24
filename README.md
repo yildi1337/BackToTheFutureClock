@@ -1,4 +1,4 @@
-# BackToTheFutureClock
+# Back To The Future Clock
 Reproduction of the DeLorean's time display from the famous movie Back to the Future
 
 ![Back to the Future Clock in Action 2020](https://github.com/yildi1337/BackToTheFutureClock/blob/master/pictures/running_2020.jpg)
